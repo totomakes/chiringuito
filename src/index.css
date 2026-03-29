@@ -1,0 +1,151 @@
+@import "tailwindcss";
+
+@layer utilities {
+  .hide-scrollbar::-webkit-scrollbar {
+    display: none;
+  }
+  .hide-scrollbar {
+    -ms-overflow-style: none;
+    scrollbar-width: none;
+  }
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+.neon-logo {
+  display: block;
+  animation: neon-flicker 7s linear infinite;
+}
+
+.neon-logo__glow {
+  mix-blend-mode: screen;
+  opacity: 0.96;
+}
+
+@keyframes neon-flicker {
+  from {
+    opacity: 1;
+  }
+
+  4% {
+    opacity: 0.92;
+  }
+
+  6% {
+    opacity: 0.88;
+  }
+
+  8% {
+    opacity: 0.96;
+  }
+
+  10% {
+    opacity: 0.91;
+  }
+
+  11% {
+    opacity: 0.94;
+  }
+
+  12% {
+    opacity: 0.89;
+  }
+
+  14% {
+    opacity: 0.96;
+  }
+
+  16% {
+    opacity: 0.99;
+  }
+
+  17% {
+    opacity: 0.91;
+  }
+
+  19% {
+    opacity: 0.95;
+  }
+
+  20% {
+    opacity: 0.99;
+  }
+
+  24% {
+    opacity: 1;
+  }
+
+  26% {
+    opacity: 0.95;
+  }
+
+  28% {
+    opacity: 0.98;
+  }
+
+  37% {
+    opacity: 0.94;
+  }
+
+  38% {
+    opacity: 0.62;
+  }
+
+  39% {
+    opacity: 0.97;
+  }
+
+  42% {
+    opacity: 1;
+  }
+
+  44% {
+    opacity: 0.97;
+  }
+
+  46% {
+    opacity: 0.94;
+  }
+
+  56% {
+    opacity: 0.9;
+  }
+
+  58% {
+    opacity: 0.91;
+  }
+
+  60% {
+    opacity: 0.99;
+  }
+
+  68% {
+    opacity: 1;
+  }
+
+  70% {
+    opacity: 0.92;
+  }
+
+  72% {
+    opacity: 0.96;
+  }
+
+  93% {
+    opacity: 0.94;
+  }
+
+  95% {
+    opacity: 0.96;
+  }
+
+  97% {
+    opacity: 0.94;
+  }
+
+  to {
+    opacity: 1;
+  }
+}

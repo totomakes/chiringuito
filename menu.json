@@ -1,0 +1,1960 @@
+{
+    "menu": [
+        {
+            "category": "Cocktails",
+            "items": [
+                {
+                    "name": "Absenta 4ALE",
+                    "price": "7 USD",
+                    "ingredients": "Absenta, licor de melón, limón en trozos y ginger ale",
+                    "tags": [
+                        "Absinthe",
+                        "Melon",
+                        "Refreshing",
+                        "Ginger",
+                        "Absenta",
+                        "Melón",
+                        "Refrescante",
+                        "Jengibre"
+                    ]
+                },
+                {
+                    "name": "Americano",
+                    "price": "7 USD",
+                    "ingredients": "Campari, vermouth rosso y agua con gas",
+                    "tags": [
+                        "Campari",
+                        "Bitter",
+                        "Bubbly",
+                        "Classic",
+                        "Amargo",
+                        "Burbujeante",
+                        "Clásico"
+                    ]
+                },
+                {
+                    "name": "Aperol Spritz",
+                    "price": "6 USD",
+                    "ingredients": "Prosecco, aperol y agua con gas",
+                    "tags": [
+                        "Aperol",
+                        "Prosecco",
+                        "Bubbly",
+                        "Refreshing",
+                        "Bitter",
+                        "Burbujeante",
+                        "Refrescante",
+                        "Amargo"
+                    ]
+                },
+                {
+                    "name": "Bacanal TV",
+                    "price": "7 USD",
+                    "ingredients": "Gin, jugo de limón, chile tabasco, sal y agua con gas",
+                    "tags": [
+                        "Gin",
+                        "Spicy",
+                        "Sour",
+                        "Salty",
+                        "Ginebra",
+                        "Picante",
+                        "Ácido",
+                        "Salado"
+                    ]
+                },
+                {
+                    "name": "Baileys 31D",
+                    "price": "9 USD",
+                    "ingredients": "Baileys, licor de café, jarabe de azúcar, crema batida y canela",
+                    "tags": [
+                        "Baileys",
+                        "Coffee",
+                        "Sweet",
+                        "Creamy",
+                        "Dessert",
+                        "Café",
+                        "Dulce",
+                        "Cremoso",
+                        "Postre"
+                    ]
+                },
+                {
+                    "name": "Barracuda",
+                    "price": "9 USD",
+                    "ingredients": "Ron oro, galliano, prosecco, jugo de piña y jugo de limón",
+                    "tags": [
+                        "Rum",
+                        "Tropical",
+                        "Pineapple",
+                        "Bubbly",
+                        "Ron",
+                        "Piña",
+                        "Burbujeante"
+                    ]
+                },
+                {
+                    "name": "Bittered Sling",
+                    "price": "6 USD",
+                    "ingredients": "Cognac, amago de angostura, jarabe de azúcar y nuez moscada",
+                    "tags": [
+                        "Cognac",
+                        "Strong",
+                        "Classic",
+                        "Spiced",
+                        "Coñac",
+                        "Fuerte",
+                        "Clásico",
+                        "Especiado"
+                    ]
+                },
+                {
+                    "name": "Bloody Mary",
+                    "price": "9 USD",
+                    "ingredients": "Vodka, jugo de tomate, jugo de limón, salsa worcestershire, chile tabasco, sal y pimienta",
+                    "tags": [
+                        "Vodka",
+                        "Savory",
+                        "Spicy",
+                        "Tomato",
+                        "Salado",
+                        "Picante",
+                        "Tomate"
+                    ]
+                },
+                {
+                    "name": "Boulevardier",
+                    "price": "7 USD",
+                    "ingredients": "Whiskey, campari y vermouth rosso",
+                    "tags": [
+                        "Whiskey",
+                        "Bitter",
+                        "Strong",
+                        "Classic",
+                        "Whisky",
+                        "Amargo",
+                        "Fuerte",
+                        "Clásico"
+                    ]
+                },
+                {
+                    "name": "Bramble",
+                    "price": "7 USD",
+                    "ingredients": "Gin, licor de frambuesa, jugo de limón y jarabe de azúcar",
+                    "tags": [
+                        "Gin",
+                        "Fruity",
+                        "Berry",
+                        "Sweet & Sour",
+                        "Ginebra",
+                        "Frutal",
+                        "Frutos rojos"
+                    ]
+                },
+                {
+                    "name": "Bulldog Margarita",
+                    "price": "12 USD",
+                    "ingredients": "Tequila, triple sec, blue curacao, jugo de limón, jarabe de azúcar y una cerveza corona",
+                    "tags": [
+                        "Tequila",
+                        "Beer",
+                        "Citrus",
+                        "Large",
+                        "Cerveza",
+                        "Cítrico",
+                        "Grande"
+                    ]
+                },
+                {
+                    "name": "Caipirinha",
+                    "price": "6 USD",
+                    "ingredients": "Cachaza, limón en trozos y azúcar",
+                    "tags": [
+                        "Cachaza",
+                        "Citrus",
+                        "Refreshing",
+                        "Classic",
+                        "Cítrico",
+                        "Refrescante",
+                        "Clásico"
+                    ]
+                },
+                {
+                    "name": "Caipirissima",
+                    "price": "6 USD",
+                    "ingredients": "Ron, limón en trozos y azúcar",
+                    "tags": [
+                        "Rum",
+                        "Citrus",
+                        "Refreshing",
+                        "Ron",
+                        "Cítrico",
+                        "Refrescante"
+                    ]
+                },
+                {
+                    "name": "Caipiroska",
+                    "price": "6 USD",
+                    "ingredients": "Vodka, limón en trozos y azúcar",
+                    "tags": [
+                        "Vodka",
+                        "Citrus",
+                        "Refreshing",
+                        "Cítrico",
+                        "Refrescante"
+                    ]
+                },
+                {
+                    "name": "Calabaza Calabaza",
+                    "price": "6 USD",
+                    "ingredients": "Vodka negro y jugo de naranja",
+                    "tags": [
+                        "Vodka",
+                        "Citrus",
+                        "Fruity",
+                        "Cítrico",
+                        "Frutal"
+                    ]
+                },
+                {
+                    "name": "Carajillo",
+                    "price": "7 USD",
+                    "ingredients": "Licor 43 y café espresso",
+                    "tags": [
+                        "Licor 43",
+                        "Coffee",
+                        "Sweet",
+                        "Digestif",
+                        "Café",
+                        "Dulce",
+                        "Digestivo"
+                    ]
+                },
+                {
+                    "name": "Casino",
+                    "price": "9 USD",
+                    "ingredients": "Gin, luxardo maraschino, jugo de limón y orange bitters",
+                    "tags": [
+                        "Gin",
+                        "Cherry",
+                        "Citrus",
+                        "Classic",
+                        "Ginebra",
+                        "Cereza",
+                        "Cítrico",
+                        "Clásico"
+                    ]
+                },
+                {
+                    "name": "Champ Elysees",
+                    "price": "9 USD",
+                    "ingredients": "Cognac, chartreuse verde, jarabe de azúcar, jugo de limón y amargo de angostura",
+                    "tags": [
+                        "Cognac",
+                        "Herbal",
+                        "Complex",
+                        "Citrus",
+                        "Coñac",
+                        "Complejo",
+                        "Cítrico"
+                    ]
+                },
+                {
+                    "name": "Chiringuito",
+                    "price": "7 USD",
+                    "ingredients": "Tequila, jugo de naranja, jugo de toronja, jugo de limón, sal y gaseosa de toronja",
+                    "tags": [
+                        "Tequila",
+                        "Citrus",
+                        "Signature",
+                        "Grapefruit",
+                        "Cítrico",
+                        "Especialidad",
+                        "Toronja",
+                        "Featured"
+                    ]
+                },
+                {
+                    "name": "Coco Loco",
+                    "price": "8 USD",
+                    "ingredients": "Tequila, ron blanco, vodka, crema de coco y jugo de limón",
+                    "tags": [
+                        "Tequila",
+                        "Rum",
+                        "Vodka",
+                        "Coconut",
+                        "Tropical",
+                        "Strong",
+                        "Ron",
+                        "Coco",
+                        "Fuerte"
+                    ]
+                },
+                {
+                    "name": "Coctel 77",
+                    "price": "9 USD",
+                    "ingredients": "Whiskey y gaseosa seven up",
+                    "tags": [
+                        "Whiskey",
+                        "Simple",
+                        "Bubbly",
+                        "Whisky",
+                        "Burbujeante"
+                    ]
+                },
+                {
+                    "name": "Corona Rebelde",
+                    "price": "6 USD",
+                    "ingredients": "Cerveza corona, tequila, blue curacao y jugo de limón",
+                    "tags": [
+                        "Beer",
+                        "Tequila",
+                        "Citrus",
+                        "Refreshing",
+                        "Cerveza",
+                        "Cítrico",
+                        "Refrescante"
+                    ]
+                },
+                {
+                    "name": "Cosmopolitan",
+                    "price": "7 USD",
+                    "ingredients": "Vodka cítrico, triple sec, jugo de limón y jugo de arándanos",
+                    "tags": [
+                        "Vodka",
+                        "Cranberry",
+                        "Citrus",
+                        "Classic",
+                        "Cítrico",
+                        "Clásico"
+                    ]
+                },
+                {
+                    "name": "Cuba Libre",
+                    "price": "6 USD",
+                    "ingredients": "Ron blanco, jugo de limón y coca cola",
+                    "tags": [
+                        "Rum",
+                        "Cola",
+                        "Simple",
+                        "Classic",
+                        "Ron",
+                        "Clásico"
+                    ]
+                },
+                {
+                    "name": "Cuba Libre Quemadita",
+                    "price": "6 USD",
+                    "ingredients": "Ron blanco, jugo de limón, sal, coca cola y agua con gas",
+                    "tags": [
+                        "Rum",
+                        "Cola",
+                        "Salty",
+                        "Bubbly",
+                        "Ron",
+                        "Salado",
+                        "Burbujeante"
+                    ]
+                },
+                {
+                    "name": "Daiquiri",
+                    "price": "6 USD",
+                    "ingredients": "Ron blanco, jugo de limón y azúcar",
+                    "tags": [
+                        "Rum",
+                        "Citrus",
+                        "Classic",
+                        "Sweet & Sour",
+                        "Ron",
+                        "Cítrico",
+                        "Clásico"
+                    ]
+                },
+                {
+                    "name": "Dark&Stormy",
+                    "price": "8 USD",
+                    "ingredients": "Ron goslings y ginger beer",
+                    "tags": [
+                        "Rum",
+                        "Ginger",
+                        "Spicy",
+                        "Classic",
+                        "Ron",
+                        "Jengibre",
+                        "Picante",
+                        "Clásico"
+                    ]
+                },
+                {
+                    "name": "Dirty Martini",
+                    "price": "8 USD",
+                    "ingredients": "Gin, dry vermouth y salmuera de aceitunas",
+                    "tags": [
+                        "Gin",
+                        "Savory",
+                        "Salty",
+                        "Classic",
+                        "Ginebra",
+                        "Salado",
+                        "Clásico"
+                    ]
+                },
+                {
+                    "name": "El Padrino",
+                    "price": "8 USD",
+                    "ingredients": "Whisky y licor de almendras",
+                    "tags": [
+                        "Whiskey",
+                        "Amaretto",
+                        "Sweet",
+                        "Strong",
+                        "Whisky",
+                        "Dulce",
+                        "Fuerte"
+                    ]
+                },
+                {
+                    "name": "Espresso Martini",
+                    "price": "7 USD",
+                    "ingredients": "Vodka, licor de café, jarabe de azúcar y café espresso",
+                    "tags": [
+                        "Vodka",
+                        "Coffee",
+                        "Sweet",
+                        "Energizing",
+                        "Café",
+                        "Dulce",
+                        "Energizante"
+                    ]
+                },
+                {
+                    "name": "Fernandito",
+                    "price": "9 USD",
+                    "ingredients": "Fernet y coca cola",
+                    "tags": [
+                        "Fernet",
+                        "Herbal",
+                        "Bitter",
+                        "Cola",
+                        "Amargo"
+                    ]
+                },
+                {
+                    "name": "French Connection",
+                    "price": "8 USD",
+                    "ingredients": "Cognac y licor de almendras",
+                    "tags": [
+                        "Cognac",
+                        "Amaretto",
+                        "Sweet",
+                        "Strong",
+                        "Coñac",
+                        "Dulce",
+                        "Fuerte"
+                    ]
+                },
+                {
+                    "name": "Gato Amargo",
+                    "price": "7 USD",
+                    "ingredients": "Tequila, amaro, jugo de limón, fresas machacadas y gaseosa de naranja",
+                    "tags": [
+                        "Tequila",
+                        "Bitter",
+                        "Strawberry",
+                        "Citrus",
+                        "Amargo",
+                        "Fresa",
+                        "Cítrico"
+                    ]
+                },
+                {
+                    "name": "Gibson",
+                    "price": "8 USD",
+                    "ingredients": "Gin y dry vermouth",
+                    "tags": [
+                        "Gin",
+                        "Dry",
+                        "Classic",
+                        "Savory",
+                        "Ginebra",
+                        "Seco",
+                        "Clásico",
+                        "Salado"
+                    ]
+                },
+                {
+                    "name": "Gin Fizz",
+                    "price": "7 USD",
+                    "ingredients": "Gin, jugo de limón, jarabe de azúcar y agua con gas",
+                    "tags": [
+                        "Gin",
+                        "Citrus",
+                        "Bubbly",
+                        "Refreshing",
+                        "Ginebra",
+                        "Cítrico",
+                        "Burbujeante",
+                        "Refrescante"
+                    ]
+                },
+                {
+                    "name": "Pink Gin",
+                    "price": "7 USD",
+                    "ingredients": "Gin, jugo de arándanos, agua tónica y agua con gas",
+                    "tags": [
+                        "Gin",
+                        "Fruity",
+                        "Tonic",
+                        "Bubbly",
+                        "Ginebra",
+                        "Frutal",
+                        "Tónica",
+                        "Burbujeante"
+                    ]
+                },
+                {
+                    "name": "Gin & Tonic",
+                    "price": "7 USD",
+                    "ingredients": "Gin y agua tónica",
+                    "tags": [
+                        "Gin",
+                        "Tonic",
+                        "Classic",
+                        "Refreshing",
+                        "Ginebra",
+                        "Tónica",
+                        "Clásico",
+                        "Refrescante"
+                    ]
+                },
+                {
+                    "name": "Guanaquito",
+                    "price": "6 USD",
+                    "ingredients": "Aguardiente salvadoreña, jarabe de tamarindo, jugo de limón y alguashte",
+                    "tags": [
+                        "Aguardiente",
+                        "Tamarind",
+                        "Local",
+                        "Spiced",
+                        "Especiado"
+                    ]
+                },
+                {
+                    "name": "Horse's Neck",
+                    "price": "7 USD",
+                    "ingredients": "Cognac, ginger ale y amargo de angostura",
+                    "tags": [
+                        "Cognac",
+                        "Ginger",
+                        "Refreshing",
+                        "Coñac",
+                        "Jengibre",
+                        "Refrescante"
+                    ]
+                },
+                {
+                    "name": "Jager Bomb",
+                    "price": "8 USD",
+                    "ingredients": "Jagermeister y red bull",
+                    "tags": [
+                        "Jagermeister",
+                        "Energy",
+                        "Party",
+                        "Energía",
+                        "Fiesta"
+                    ]
+                },
+                {
+                    "name": "Jager Kiss",
+                    "price": "8 USD",
+                    "ingredients": "Jagermeister y una cerveza",
+                    "tags": [
+                        "Jagermeister",
+                        "Beer",
+                        "Strong",
+                        "Cerveza",
+                        "Fuerte"
+                    ]
+                },
+                {
+                    "name": "Jager Ni",
+                    "price": "9 USD",
+                    "ingredients": "Jagermeister, gin y vermouth rosso",
+                    "tags": [
+                        "Jagermeister",
+                        "Gin",
+                        "Herbal",
+                        "Bitter",
+                        "Ginebra",
+                        "Amargo"
+                    ]
+                },
+                {
+                    "name": "Lemon Drop Martini",
+                    "price": "7 USD",
+                    "ingredients": "Vodka cítrico, triple sec y jugo de limón",
+                    "tags": [
+                        "Vodka",
+                        "Citrus",
+                        "Sweet & Sour",
+                        "Cítrico"
+                    ]
+                },
+                {
+                    "name": "Limoncello Cocktail",
+                    "price": "8 USD",
+                    "ingredients": "Limoncello, vodka, jugo de limón y jarabe de azúcar",
+                    "tags": [
+                        "Vodka",
+                        "Limoncello",
+                        "Citrus",
+                        "Sweet",
+                        "Cítrico",
+                        "Dulce"
+                    ]
+                },
+                {
+                    "name": "Long Island Iced Tea",
+                    "price": "9 USD",
+                    "ingredients": "Ron, vodka, gin, tequila blanco, triple sec, jugo de limón, jarabe de azúcar y coca cola",
+                    "tags": [
+                        "Rum",
+                        "Vodka",
+                        "Gin",
+                        "Tequila",
+                        "Strong",
+                        "Classic",
+                        "Ron",
+                        "Ginebra",
+                        "Fuerte",
+                        "Clásico"
+                    ]
+                },
+                {
+                    "name": "Machu Picchu",
+                    "price": "8 USD",
+                    "ingredients": "Pisco, licor de menta, jarabe de granadina y jugo de naranja",
+                    "tags": [
+                        "Pisco",
+                        "Mint",
+                        "Fruity",
+                        "Sweet",
+                        "Menta",
+                        "Frutal",
+                        "Dulce"
+                    ]
+                },
+                {
+                    "name": "Mai Tai",
+                    "price": "7 USD",
+                    "ingredients": "Ron especiado, ron oro, triple sec, jarabe de almendras y jugo de limón",
+                    "tags": [
+                        "Rum",
+                        "Tropical",
+                        "Almond",
+                        "Classic",
+                        "Ron",
+                        "Almendra",
+                        "Clásico"
+                    ]
+                },
+                {
+                    "name": "Manhattan",
+                    "price": "9 USD",
+                    "ingredients": "Whiskey, vermouth rosso y amargo de angostura",
+                    "tags": [
+                        "Whiskey",
+                        "Strong",
+                        "Classic",
+                        "Bitter",
+                        "Whisky",
+                        "Fuerte",
+                        "Clásico",
+                        "Amargo"
+                    ]
+                },
+                {
+                    "name": "Margarita",
+                    "price": "6 USD",
+                    "ingredients": "Tequila, triple sec y jugo de limón",
+                    "tags": [
+                        "Tequila",
+                        "Citrus",
+                        "Classic",
+                        "Sour",
+                        "Cítrico",
+                        "Clásico",
+                        "Ácido"
+                    ]
+                },
+                {
+                    "name": "Margarita de Fresa",
+                    "price": "6 USD",
+                    "ingredients": "Tequila, triple sec, jugo de limón, fresas machacadas y jarabe de fresas",
+                    "tags": [
+                        "Tequila",
+                        "Strawberry",
+                        "Fruity",
+                        "Sweet",
+                        "Fresa",
+                        "Frutal",
+                        "Dulce"
+                    ]
+                },
+                {
+                    "name": "Margarita Italiana",
+                    "price": "9 USD",
+                    "ingredients": "Tequila, limoncello, campari, jarabe de agave y jugo de limón",
+                    "tags": [
+                        "Tequila",
+                        "Limoncello",
+                        "Campari",
+                        "Complex",
+                        "Complejo"
+                    ]
+                },
+                {
+                    "name": "Margarita Jalapeño",
+                    "price": "6 USD",
+                    "ingredients": "Tequila, triple sec, jugo de limón, jarabe de azúcar y chile jalapeño",
+                    "tags": [
+                        "Tequila",
+                        "Spicy",
+                        "Jalapeño",
+                        "Citrus",
+                        "Picante",
+                        "Cítrico"
+                    ]
+                },
+                {
+                    "name": "Margarita Persea",
+                    "price": "8 USD",
+                    "ingredients": "Tequila, kiwi, aguacate, jarabe de agave, jugo de limón, sal y chile jalapeño",
+                    "tags": [
+                        "Tequila",
+                        "Avocado",
+                        "Kiwi",
+                        "Spicy",
+                        "Unique",
+                        "Aguacate",
+                        "Picante",
+                        "Único"
+                    ]
+                },
+                {
+                    "name": "Margarita Tamarindo",
+                    "price": "6 USD",
+                    "ingredients": "Tequila, triple sec, jugo de limón y jarabe de tamarindo",
+                    "tags": [
+                        "Tequila",
+                        "Tamarind",
+                        "Sweet & Sour"
+                    ]
+                },
+                {
+                    "name": "Martini",
+                    "price": "8 USD",
+                    "ingredients": "Gin y dry vermouth",
+                    "tags": [
+                        "Gin",
+                        "Classic",
+                        "Dry",
+                        "Strong",
+                        "Ginebra",
+                        "Clásico",
+                        "Seco",
+                        "Fuerte"
+                    ]
+                },
+                {
+                    "name": "Martini Caribeño",
+                    "price": "7 USD",
+                    "ingredients": "Vodka, ron de coco, jugo de mango y piña machacada",
+                    "tags": [
+                        "Vodka",
+                        "Rum",
+                        "Tropical",
+                        "Fruity",
+                        "Coconut",
+                        "Ron",
+                        "Frutal",
+                        "Coco"
+                    ]
+                },
+                {
+                    "name": "Mary Pickford",
+                    "price": "7 USD",
+                    "ingredients": "Ron blanco, luxardo maraschino, jugo de piña y jarabe de granadina",
+                    "tags": [
+                        "Rum",
+                        "Pineapple",
+                        "Cherry",
+                        "Sweet",
+                        "Ron",
+                        "Piña",
+                        "Cereza",
+                        "Dulce"
+                    ]
+                },
+                {
+                    "name": "Mezcalita",
+                    "price": "8 USD",
+                    "ingredients": "Mezcal, triple sec y jugo de limón",
+                    "tags": [
+                        "Mezcal",
+                        "Smoky",
+                        "Citrus",
+                        "Classic",
+                        "Ahumado",
+                        "Cítrico",
+                        "Clásico"
+                    ]
+                },
+                {
+                    "name": "Mezcalita de Mango",
+                    "price": "8 USD",
+                    "ingredients": "Mezcal, triple sec, jugo de limón, jugo de mango, jarabe de agave y chile jalapeño",
+                    "tags": [
+                        "Mezcal",
+                        "Mango",
+                        "Smoky",
+                        "Spicy",
+                        "Fruity",
+                        "Ahumado",
+                        "Picante",
+                        "Frutal"
+                    ]
+                },
+                {
+                    "name": "Michelada Chiringuito",
+                    "price": "5 USD",
+                    "ingredients": "Cerveza, jugo de tomate, jugo de limón, sal, salsa worcestershire, chile tabasco y pimienta",
+                    "tags": [
+                        "Beer",
+                        "Savory",
+                        "Spicy",
+                        "Tomato",
+                        "Cerveza",
+                        "Salado",
+                        "Picante",
+                        "Tomate"
+                    ]
+                },
+                {
+                    "name": "Michelada La Guiscosa",
+                    "price": "7 USD",
+                    "ingredients": "Cerveza, whiskey, triple sec, sour mix y sal",
+                    "tags": [
+                        "Beer",
+                        "Whiskey",
+                        "Sour",
+                        "Strong",
+                        "Cerveza",
+                        "Whisky",
+                        "Ácido",
+                        "Fuerte"
+                    ]
+                },
+                {
+                    "name": "Michelada Michejager",
+                    "price": "7 USD",
+                    "ingredients": "Cerveza, jagermeister, tequila, jugo de limón y sal",
+                    "tags": [
+                        "Beer",
+                        "Jagermeister",
+                        "Tequila",
+                        "Strong",
+                        "Cerveza",
+                        "Fuerte"
+                    ]
+                },
+                {
+                    "name": "Mimosa",
+                    "price": "7 USD",
+                    "ingredients": "Prosecco y jugo de naranja",
+                    "tags": [
+                        "Prosecco",
+                        "Citrus",
+                        "Bubbly",
+                        "Brunch",
+                        "Cítrico",
+                        "Burbujeante"
+                    ]
+                },
+                {
+                    "name": "Mimosa Pepino",
+                    "price": "7 USD",
+                    "ingredients": "Prosecco, vodka, pepino y jarabe de azúcar",
+                    "tags": [
+                        "Prosecco",
+                        "Vodka",
+                        "Cucumber",
+                        "Refreshing",
+                        "Pepino",
+                        "Refrescante"
+                    ]
+                },
+                {
+                    "name": "Mint Julep",
+                    "price": "8 USD",
+                    "ingredients": "Whiskey, hierba buena, azúcar y agua natural",
+                    "tags": [
+                        "Whiskey",
+                        "Mint",
+                        "Refreshing",
+                        "Classic",
+                        "Whisky",
+                        "Menta",
+                        "Refrescante",
+                        "Clásico"
+                    ]
+                },
+                {
+                    "name": "Mojito",
+                    "price": "6 USD",
+                    "ingredients": "Ron blanco, hierba buena, limón en trozos, azúcar y agua con gas",
+                    "tags": [
+                        "Rum",
+                        "Mint",
+                        "Refreshing",
+                        "Classic",
+                        "Ron",
+                        "Menta",
+                        "Refrescante",
+                        "Clásico"
+                    ]
+                },
+                {
+                    "name": "Mojito Blueberry",
+                    "price": "6 USD",
+                    "ingredients": "Ron blanco, hierba buena, jugo de limón, jarabe de arándanos y agua con gas",
+                    "tags": [
+                        "Rum",
+                        "Blueberry",
+                        "Mint",
+                        "Refreshing",
+                        "Ron",
+                        "Menta",
+                        "Refrescante"
+                    ]
+                },
+                {
+                    "name": "Moscow Mule",
+                    "price": "8 USD",
+                    "ingredients": "Vodka, jugo de limón y ginger beer",
+                    "tags": [
+                        "Vodka",
+                        "Ginger",
+                        "Refreshing",
+                        "Classic",
+                        "Jengibre",
+                        "Refrescante",
+                        "Clásico"
+                    ]
+                },
+                {
+                    "name": "Negroni",
+                    "price": "9 USD",
+                    "ingredients": "Gin, campari y vermouth rosso",
+                    "tags": [
+                        "Gin",
+                        "Campari",
+                        "Bitter",
+                        "Classic",
+                        "Strong",
+                        "Ginebra",
+                        "Amargo",
+                        "Clásico",
+                        "Fuerte"
+                    ]
+                },
+                {
+                    "name": "Negroni Sbagliato",
+                    "price": "9 USD",
+                    "ingredients": "Prosecco, campari y vermouth rosso",
+                    "tags": [
+                        "Prosecco",
+                        "Campari",
+                        "Bitter",
+                        "Bubbly",
+                        "Amargo",
+                        "Burbujeante"
+                    ]
+                },
+                {
+                    "name": "New York Sour",
+                    "price": "9 USD",
+                    "ingredients": "Whiskey, vino tinto, clara de huevo, jarabe de azúcar y jugo de limón",
+                    "tags": [
+                        "Whiskey",
+                        "Wine",
+                        "Sour",
+                        "Complex",
+                        "Whisky",
+                        "Vino",
+                        "Ácido",
+                        "Complejo"
+                    ]
+                },
+                {
+                    "name": "Old Fashioned",
+                    "price": "9 USD",
+                    "ingredients": "Whiskey, azúcar, amargo de angostura y agua natural",
+                    "tags": [
+                        "Whiskey",
+                        "Strong",
+                        "Classic",
+                        "Sweet",
+                        "Whisky",
+                        "Fuerte",
+                        "Clásico",
+                        "Dulce"
+                    ]
+                },
+                {
+                    "name": "Paloma",
+                    "price": "6 USD",
+                    "ingredients": "Tequila, jarabe de agave, jugo de limón, sal y gaseosa de toronja",
+                    "tags": [
+                        "Tequila",
+                        "Grapefruit",
+                        "Refreshing",
+                        "Classic",
+                        "Toronja",
+                        "Refrescante",
+                        "Clásico"
+                    ]
+                },
+                {
+                    "name": "Paranoia",
+                    "price": "7 USD",
+                    "ingredients": "Vodka, licor de kiwi, jagermeister, jugo de limón, jarabe de azúcar y trozos de kiwi",
+                    "tags": [
+                        "Vodka",
+                        "Jagermeister",
+                        "Kiwi",
+                        "Fruity",
+                        "Frutal"
+                    ]
+                },
+                {
+                    "name": "Piña Colada",
+                    "price": "6 USD",
+                    "ingredients": "Ron blanco, crema de coco y jugo de piña",
+                    "tags": [
+                        "Rum",
+                        "Coconut",
+                        "Pineapple",
+                        "Tropical",
+                        "Sweet",
+                        "Ron",
+                        "Coco",
+                        "Piña",
+                        "Dulce"
+                    ]
+                },
+                {
+                    "name": "Pisco Sour",
+                    "price": "8 USD",
+                    "ingredients": "Pisco, clara de huevo, jarabe de azúcar, jugo de limón y amargo de angostura",
+                    "tags": [
+                        "Pisco",
+                        "Sour",
+                        "Classic",
+                        "Foamy",
+                        "Ácido",
+                        "Clásico",
+                        "Espumoso"
+                    ]
+                },
+                {
+                    "name": "Ruso Blanco",
+                    "price": "7 USD",
+                    "ingredients": "Vodka, licor de café y crema de leche",
+                    "tags": [
+                        "Vodka",
+                        "Coffee",
+                        "Creamy",
+                        "Sweet",
+                        "Café",
+                        "Cremoso",
+                        "Dulce"
+                    ]
+                },
+                {
+                    "name": "Ruso Negro",
+                    "price": "7 USD",
+                    "ingredients": "Vodka y licor de cafe",
+                    "tags": [
+                        "Vodka",
+                        "Coffee",
+                        "Strong",
+                        "Sweet",
+                        "Café",
+                        "Fuerte",
+                        "Dulce"
+                    ]
+                },
+                {
+                    "name": "Sangría Española",
+                    "price": "7 USD",
+                    "ingredients": "Vino tinto, triple sec, brandy, jarabe de azúcar, jugo de naranja y fruta en trozos",
+                    "tags": [
+                        "Wine",
+                        "Fruity",
+                        "Brandy",
+                        "Sweet",
+                        "Vino",
+                        "Frutal",
+                        "Dulce"
+                    ]
+                },
+                {
+                    "name": "Sex on the Beach",
+                    "price": "7 USD",
+                    "ingredients": "Vodka, peach schnapps, jugo de naranja y jugo de arándanos",
+                    "tags": [
+                        "Vodka",
+                        "Peach",
+                        "Fruity",
+                        "Sweet",
+                        "Durazno",
+                        "Frutal",
+                        "Dulce"
+                    ]
+                },
+                {
+                    "name": "Sidecar",
+                    "price": "8 USD",
+                    "ingredients": "Cognac, triple sec, jugo de limón y jarabe de azúcar (opcional)",
+                    "tags": [
+                        "Cognac",
+                        "Citrus",
+                        "Classic",
+                        "Strong",
+                        "Coñac",
+                        "Cítrico",
+                        "Clásico",
+                        "Fuerte"
+                    ]
+                },
+                {
+                    "name": "St-Germain Spritz",
+                    "price": "9 USD",
+                    "ingredients": "St-Germain, prosecco y agua con gas",
+                    "tags": [
+                        "St-Germain",
+                        "Prosecco",
+                        "Floral",
+                        "Bubbly",
+                        "Refreshing",
+                        "Burbujeante",
+                        "Refrescante"
+                    ]
+                },
+                {
+                    "name": "Suffering Bastard",
+                    "price": "9 USD",
+                    "ingredients": "Gin, cognac, amargo de angostura, jugo de limón y ginger beer",
+                    "tags": [
+                        "Gin",
+                        "Cognac",
+                        "Ginger",
+                        "Strong",
+                        "Ginebra",
+                        "Coñac",
+                        "Jengibre",
+                        "Fuerte"
+                    ]
+                },
+                {
+                    "name": "Tequila Splash",
+                    "price": "6 USD",
+                    "ingredients": "Tequila reposado, jugo de toronja, jugo de arándanos, jarabe de azúcar y jugo de limón",
+                    "tags": [
+                        "Tequila",
+                        "Fruity",
+                        "Citrus",
+                        "Refreshing",
+                        "Frutal",
+                        "Cítrico",
+                        "Refrescante"
+                    ]
+                },
+                {
+                    "name": "Tequila Summer",
+                    "price": "7 USD",
+                    "ingredients": "Tequila reposado, jugo de naranja, jarabe de granadina y una cerveza",
+                    "tags": [
+                        "Tequila",
+                        "Beer",
+                        "Fruity",
+                        "Refreshing",
+                        "Cerveza",
+                        "Frutal",
+                        "Refrescante"
+                    ]
+                },
+                {
+                    "name": "Tequila Sunrise",
+                    "price": "6 USD",
+                    "ingredients": "Tequila, jugo de naranja y jarabe de granadina",
+                    "tags": [
+                        "Tequila",
+                        "Citrus",
+                        "Sweet",
+                        "Classic",
+                        "Cítrico",
+                        "Dulce",
+                        "Clásico"
+                    ]
+                },
+                {
+                    "name": "Tequila Tonic",
+                    "price": "7 USD",
+                    "ingredients": "Tequila, jugo de toronja, jarabe de agave, jugo de limón y agua tónica",
+                    "tags": [
+                        "Tequila",
+                        "Grapefruit",
+                        "Tonic",
+                        "Refreshing",
+                        "Toronja",
+                        "Tónica",
+                        "Refrescante"
+                    ]
+                },
+                {
+                    "name": "Tequiperol",
+                    "price": "8 USD",
+                    "ingredients": "Tequila, aperol, jugo de limón, trozos de sandía y agua con gas",
+                    "tags": [
+                        "Tequila",
+                        "Aperol",
+                        "Watermelon",
+                        "Refreshing",
+                        "Sandía",
+                        "Refrescante"
+                    ]
+                },
+                {
+                    "name": "Tom Collins",
+                    "price": "7 USD",
+                    "ingredients": "Gin, jugo de limón, azúcar y agua con gas",
+                    "tags": [
+                        "Gin",
+                        "Citrus",
+                        "Refreshing",
+                        "Classic",
+                        "Ginebra",
+                        "Cítrico",
+                        "Refrescante",
+                        "Clásico"
+                    ]
+                },
+                {
+                    "name": "Vodka K7",
+                    "price": "7 USD",
+                    "ingredients": "Vodka, licor de kiwi, jarabe de azúcar, jugo de limón y agua con gas",
+                    "tags": [
+                        "Vodka",
+                        "Kiwi",
+                        "Fruity",
+                        "Refreshing",
+                        "Frutal",
+                        "Refrescante"
+                    ]
+                },
+                {
+                    "name": "Vodka Petonic",
+                    "price": "7 USD",
+                    "ingredients": "Vodka, jarabe de azúcar, jugo de limón, pepino y agua tónica",
+                    "tags": [
+                        "Vodka",
+                        "Cucumber",
+                        "Tonic",
+                        "Refreshing",
+                        "Pepino",
+                        "Tónica",
+                        "Refrescante"
+                    ]
+                },
+                {
+                    "name": "Vodkacao",
+                    "price": "7 USD",
+                    "ingredients": "Vodka, licor de melón, jugo de naranja, blue curacao y gaseosa de lima-limón",
+                    "tags": [
+                        "Vodka",
+                        "Melon",
+                        "Citrus",
+                        "Sweet",
+                        "Melón",
+                        "Cítrico",
+                        "Dulce"
+                    ]
+                },
+                {
+                    "name": "Whiskey Sour",
+                    "price": "8 USD",
+                    "ingredients": "Whiskey, jugo de limón, jarabe de azúcar y clara de huevo",
+                    "tags": [
+                        "Whiskey",
+                        "Sour",
+                        "Foamy",
+                        "Classic",
+                        "Whisky",
+                        "Ácido",
+                        "Espumoso",
+                        "Clásico"
+                    ]
+                },
+                {
+                    "name": "Yellow Bird",
+                    "price": "7 USD",
+                    "ingredients": "Ron blanco, galliano, triple sec y jugo de limón",
+                    "tags": [
+                        "Rum",
+                        "Citrus",
+                        "Sweet",
+                        "Tropical",
+                        "Ron",
+                        "Cítrico",
+                        "Dulce"
+                    ]
+                }
+            ]
+        },
+        {
+            "category": "Mocktails",
+            "items": [
+                {
+                    "name": "Adam Palmer",
+                    "price": "5 USD",
+                    "ingredients": "Limonada y té",
+                    "tags": [
+                        "Non-Alcoholic",
+                        "Tea",
+                        "Lemon",
+                        "Refreshing",
+                        "Sin Alcohol",
+                        "Limón",
+                        "Refrescante"
+                    ]
+                },
+                {
+                    "name": "Cimarrona",
+                    "price": "4 USD",
+                    "ingredients": "Agua con gas, jugo de tomate, jugo de limón, salsa worcestershire, chile tabasco, sal y pimienta",
+                    "tags": [
+                        "Non-Alcoholic",
+                        "Savory",
+                        "Tomato",
+                        "Spicy",
+                        "Sin Alcohol",
+                        "Salado",
+                        "Tomate",
+                        "Picante"
+                    ]
+                },
+                {
+                    "name": "Cimarrona V.I.P.",
+                    "price": "5 USD",
+                    "ingredients": "Agua con gas, jugo de tomate, jugo de limón, salsa worcestershire, chile tabasco, sal y pimienta",
+                    "tags": [
+                        "Non-Alcoholic",
+                        "Savory",
+                        "Tomato",
+                        "Spicy",
+                        "Sin Alcohol",
+                        "Salado",
+                        "Tomate",
+                        "Picante"
+                    ]
+                },
+                {
+                    "name": "Frozen de Fresa",
+                    "price": "4 USD",
+                    "ingredients": "Fresas, jarabe de fresas y jugo de limón",
+                    "tags": [
+                        "Non-Alcoholic",
+                        "Strawberry",
+                        "Frozen",
+                        "Sweet",
+                        "Sin Alcohol",
+                        "Fresa",
+                        "Congelado",
+                        "Dulce"
+                    ]
+                },
+                {
+                    "name": "Jugo de Tomate",
+                    "price": "5 USD",
+                    "ingredients": "Jugo de tomate, jugo de limón, salsa worcestershire, chile tabasco, sal y pimienta",
+                    "tags": [
+                        "Non-Alcoholic",
+                        "Tomato",
+                        "Savory",
+                        "Spicy",
+                        "Sin Alcohol",
+                        "Tomate",
+                        "Salado",
+                        "Picante"
+                    ]
+                },
+                {
+                    "name": "Limonada",
+                    "price": "4 USD",
+                    "ingredients": "Jugo de limón, azúcar y agua con gas",
+                    "tags": [
+                        "Non-Alcoholic",
+                        "Lemon",
+                        "Refreshing",
+                        "Sweet & Sour",
+                        "Sin Alcohol",
+                        "Limón",
+                        "Refrescante"
+                    ]
+                },
+                {
+                    "name": "Limonada Blueberry",
+                    "price": "4 USD",
+                    "ingredients": "Jugo de limón, arándanos, jarabe de azúcar y agua con gas",
+                    "tags": [
+                        "Non-Alcoholic",
+                        "Blueberry",
+                        "Lemon",
+                        "Refreshing",
+                        "Sin Alcohol",
+                        "Limón",
+                        "Refrescante"
+                    ]
+                },
+                {
+                    "name": "Mango Fresh",
+                    "price": "4 USD",
+                    "ingredients": "Jugo de mango, jugo de naranja, jugo de limón, hierba buena, jarabe de agave y agua con gas",
+                    "tags": [
+                        "Non-Alcoholic",
+                        "Mango",
+                        "Mint",
+                        "Tropical",
+                        "Sin Alcohol",
+                        "Menta"
+                    ]
+                },
+                {
+                    "name": "Piña Colada Virgen",
+                    "price": "5 USD",
+                    "ingredients": "Jugo de piña y crema de coco",
+                    "tags": [
+                        "Non-Alcoholic",
+                        "Pineapple",
+                        "Coconut",
+                        "Sweet",
+                        "Sin Alcohol",
+                        "Piña",
+                        "Coco",
+                        "Dulce"
+                    ]
+                },
+                {
+                    "name": "Roy Rogers",
+                    "price": "5 USD",
+                    "ingredients": "Coca cola y jarabe de granadina",
+                    "tags": [
+                        "Non-Alcoholic",
+                        "Cola",
+                        "Sweet",
+                        "Sin Alcohol",
+                        "Dulce"
+                    ]
+                },
+                {
+                    "name": "San Francisco",
+                    "price": "5 USD",
+                    "ingredients": "Jugo de naranja, jugo de piña, jugo de limón y jarabe de granadina",
+                    "tags": [
+                        "Non-Alcoholic",
+                        "Fruity",
+                        "Citrus",
+                        "Sweet",
+                        "Sin Alcohol",
+                        "Frutal",
+                        "Cítrico",
+                        "Dulce"
+                    ]
+                },
+                {
+                    "name": "Shirley Temple",
+                    "price": "5 USD",
+                    "ingredients": "Ginger ale y jarabe de granadina",
+                    "tags": [
+                        "Non-Alcoholic",
+                        "Ginger",
+                        "Sweet",
+                        "Classic",
+                        "Sin Alcohol",
+                        "Jengibre",
+                        "Dulce",
+                        "Clásico"
+                    ]
+                }
+            ]
+        },
+        {
+            "category": "Shots",
+            "items": [
+                {
+                    "name": "Astronauta",
+                    "price": "5 USD",
+                    "ingredients": "Vodka y gajo de limón con café en polvo y azúcar",
+                    "tags": [
+                        "Vodka",
+                        "Coffee",
+                        "Citrus",
+                        "Strong",
+                        "Café",
+                        "Cítrico",
+                        "Fuerte"
+                    ]
+                },
+                {
+                    "name": "Blow Job",
+                    "price": "6 USD",
+                    "ingredients": "Licor de café, licor de almendras, baileys y crema batida",
+                    "tags": [
+                        "Coffee",
+                        "Baileys",
+                        "Amaretto",
+                        "Creamy",
+                        "Café",
+                        "Cremoso"
+                    ]
+                },
+                {
+                    "name": "B52",
+                    "price": "7 USD",
+                    "ingredients": "Licor de café, baileys y grand marnier",
+                    "tags": [
+                        "Coffee",
+                        "Baileys",
+                        "Sweet",
+                        "Layered",
+                        "Café",
+                        "Dulce",
+                        "En capas"
+                    ]
+                },
+                {
+                    "name": "Cachimbo",
+                    "price": "5 USD",
+                    "ingredients": "Aguardiente salvadoreño, jugo de mango y jugo de limón",
+                    "tags": [
+                        "Aguardiente",
+                        "Mango",
+                        "Local",
+                        "Fruity",
+                        "Frutal"
+                    ]
+                },
+                {
+                    "name": "Cámara de Gas",
+                    "price": "8 USD",
+                    "ingredients": "Vodka, ron, baileys, blue curacao, absenta y jarabe de granadina",
+                    "tags": [
+                        "Vodka",
+                        "Rum",
+                        "Absinthe",
+                        "Strong",
+                        "Complex",
+                        "Ron",
+                        "Absenta",
+                        "Fuerte",
+                        "Complejo"
+                    ]
+                },
+                {
+                    "name": "Chocolate Cake",
+                    "price": "6 USD",
+                    "ingredients": "Vodka cítrico y frangelico",
+                    "tags": [
+                        "Vodka",
+                        "Hazelnut",
+                        "Sweet",
+                        "Dessert",
+                        "Dulce",
+                        "Postre"
+                    ]
+                },
+                {
+                    "name": "Chupabesito",
+                    "price": "6 USD",
+                    "ingredients": "Preguntar al bartender",
+                    "tags": [
+                        "Mystery",
+                        "Sweet",
+                        "Sorpresa",
+                        "Dulce"
+                    ]
+                },
+                {
+                    "name": "Coquiño",
+                    "price": "6 USD",
+                    "ingredients": "Hpnotiq, blue curacao, jugo de piña y ron coco",
+                    "tags": [
+                        "Hpnotiq",
+                        "Rum",
+                        "Coconut",
+                        "Pineapple",
+                        "Ron",
+                        "Coco",
+                        "Piña"
+                    ]
+                },
+                {
+                    "name": "Coquito",
+                    "price": "6 USD",
+                    "ingredients": "Hpnotiq, jugo de piña y ron coco",
+                    "tags": [
+                        "Hpnotiq",
+                        "Rum",
+                        "Pineapple",
+                        "Tropical",
+                        "Ron",
+                        "Piña"
+                    ]
+                },
+                {
+                    "name": "Deep Ocean",
+                    "price": "6 USD",
+                    "ingredients": "Hpnotiq, ron coco y blue curacao",
+                    "tags": [
+                        "Hpnotiq",
+                        "Rum",
+                        "Coconut",
+                        "Sweet",
+                        "Ron",
+                        "Coco",
+                        "Dulce"
+                    ]
+                },
+                {
+                    "name": "Derrame Cerebral",
+                    "price": "6 USD",
+                    "ingredients": "Licor de melocotón, baileys, blue curacao y jarabe de granadina",
+                    "tags": [
+                        "Peach",
+                        "Baileys",
+                        "Sweet",
+                        "Creamy",
+                        "Durazno",
+                        "Dulce",
+                        "Cremoso"
+                    ]
+                },
+                {
+                    "name": "El Asqueroso",
+                    "price": "7 USD",
+                    "ingredients": "Baileys, blue curacao y coca cola",
+                    "tags": [
+                        "Baileys",
+                        "Cola",
+                        "Sweet",
+                        "Dulce"
+                    ]
+                },
+                {
+                    "name": "Ghostbusters",
+                    "price": "6 USD",
+                    "ingredients": "Licor de melón, peach schnapps y baileys",
+                    "tags": [
+                        "Melon",
+                        "Peach",
+                        "Baileys",
+                        "Sweet",
+                        "Melón",
+                        "Durazno",
+                        "Dulce"
+                    ]
+                },
+                {
+                    "name": "Irish Flag",
+                    "price": "7 USD",
+                    "ingredients": "Crema de menta, baileys y grand marnier",
+                    "tags": [
+                        "Mint",
+                        "Baileys",
+                        "Sweet",
+                        "Layered",
+                        "Menta",
+                        "Dulce",
+                        "En capas"
+                    ]
+                },
+                {
+                    "name": "Medusa",
+                    "price": "6 USD",
+                    "ingredients": "Tequila, blue curacao, absenta y baileys",
+                    "tags": [
+                        "Tequila",
+                        "Absinthe",
+                        "Baileys",
+                        "Strong",
+                        "Absenta",
+                        "Fuerte"
+                    ]
+                },
+                {
+                    "name": "Molotov",
+                    "price": "8 USD",
+                    "ingredients": "Gin, vodka, ron blanco, tequila, triple sec, coca cola, jugo de limón y jarabe de azúcar",
+                    "tags": [
+                        "Gin",
+                        "Vodka",
+                        "Rum",
+                        "Tequila",
+                        "Strong",
+                        "Ginebra",
+                        "Ron",
+                        "Fuerte"
+                    ]
+                },
+                {
+                    "name": "Naranjito Darks",
+                    "price": "5 USD",
+                    "ingredients": "Vodka negro, jugo de naranja y jarabe de granadina",
+                    "tags": [
+                        "Vodka",
+                        "Citrus",
+                        "Sweet",
+                        "Cítrico",
+                        "Dulce"
+                    ]
+                },
+                {
+                    "name": "Navideño",
+                    "price": "7 USD",
+                    "ingredients": "Fireball, crema de menta, baileys y crema batida",
+                    "tags": [
+                        "Fireball",
+                        "Mint",
+                        "Baileys",
+                        "Spiced",
+                        "Menta",
+                        "Especiado"
+                    ]
+                },
+                {
+                    "name": "Rainbow Shots",
+                    "price": "20 USD",
+                    "ingredients": "Ron coco, vodka, jugo de naranja, blue curacao y jarabe de granadina",
+                    "tags": [
+                        "Rum",
+                        "Vodka",
+                        "Fruity",
+                        "Group",
+                        "Ron",
+                        "Frutal",
+                        "Para Compartir"
+                    ]
+                },
+                {
+                    "name": "Ron Bomb",
+                    "price": "8 USD",
+                    "ingredients": "Whisky crown royal, peach schnapps, ron coco, jugo de arándanos y red bull",
+                    "tags": [
+                        "Whiskey",
+                        "Rum",
+                        "Energy",
+                        "Strong",
+                        "Whisky",
+                        "Ron",
+                        "Energía",
+                        "Fuerte"
+                    ]
+                },
+                {
+                    "name": "Vegas",
+                    "price": "8 USD",
+                    "ingredients": "Coco, jugo de arándanos y red bull",
+                    "tags": [
+                        "Coconut",
+                        "Cranberry",
+                        "Energy",
+                        "Sweet",
+                        "Coco",
+                        "Energía",
+                        "Dulce"
+                    ]
+                }
+            ]
+        },
+        {
+            "category": "Cervezas",
+            "items": [
+                {
+                    "name": "Blue Moon",
+                    "price": "3 USD",
+                    "ingredients": "Cerveza estilo witbier belga, 5.4%",
+                    "tags": [
+                        "Beer",
+                        "Wheat",
+                        "Citrus",
+                        "Cerveza",
+                        "Trigo",
+                        "Cítrico"
+                    ]
+                },
+                {
+                    "name": "Corona",
+                    "price": "3 USD",
+                    "ingredients": "Cerveza tipo pilsner, 4.5%",
+                    "tags": [
+                        "Beer",
+                        "Pilsner",
+                        "Light",
+                        "Cerveza",
+                        "Ligera"
+                    ]
+                },
+                {
+                    "name": "Gallo",
+                    "price": "2.50 USD",
+                    "ingredients": "Cerveza tipo lager, 5.0%",
+                    "tags": [
+                        "Beer",
+                        "Lager",
+                        "Crisp",
+                        "Cerveza",
+                        "Refrescante"
+                    ]
+                },
+                {
+                    "name": "Michelob Ultra",
+                    "price": "3 USD",
+                    "ingredients": "Cerveza tipo lager, 4.2%",
+                    "tags": [
+                        "Beer",
+                        "Lager",
+                        "Light",
+                        "Cerveza",
+                        "Ligera"
+                    ]
+                },
+                {
+                    "name": "Pilsener",
+                    "price": "2.50 USD",
+                    "ingredients": "Cerveza tipo lager, 4.4%",
+                    "tags": [
+                        "Beer",
+                        "Lager",
+                        "Local",
+                        "Cerveza"
+                    ]
+                },
+                {
+                    "name": "Regia Chola",
+                    "price": "4.50 USD",
+                    "ingredients": "Cerveza tipo pilsen, 4.8%",
+                    "tags": [
+                        "Beer",
+                        "Pilsner",
+                        "Large",
+                        "Cerveza",
+                        "Grande"
+                    ]
+                }
+            ]
+        },
+        {
+            "category": "Vinos",
+            "items": [
+                {
+                    "name": "Copa de Vino Blanco",
+                    "price": "6 USD",
+                    "ingredients": "Partager, Barton & Guestier",
+                    "tags": [
+                        "Wine",
+                        "White",
+                        "Dry",
+                        "Vino",
+                        "Blanco",
+                        "Seco"
+                    ]
+                },
+                {
+                    "name": "Copa de Vino Rosado",
+                    "price": "6 USD",
+                    "ingredients": "Rosé D'anjou, Barton & Guestier",
+                    "tags": [
+                        "Wine",
+                        "Rosé",
+                        "Fruity",
+                        "Vino",
+                        "Rosado",
+                        "Frutal"
+                    ]
+                }
+            ]
+        },
+        {
+            "category": "Otros",
+            "items": [
+                {
+                    "name": "Agua Mineral",
+                    "price": "2 USD",
+                    "ingredients": "Agua carbonatada",
+                    "tags": [
+                        "Water",
+                        "Bubbly",
+                        "Agua",
+                        "Burbujeante"
+                    ]
+                },
+                {
+                    "name": "Agua Mineral Premium",
+                    "price": "3.50 USD",
+                    "ingredients": "Perrier o San Pellegrino",
+                    "tags": [
+                        "Water",
+                        "Premium",
+                        "Bubbly",
+                        "Agua",
+                        "Burbujeante"
+                    ]
+                },
+                {
+                    "name": "Agua Pura",
+                    "price": "1.50 USD",
+                    "ingredients": "Agua embotellada",
+                    "tags": [
+                        "Water",
+                        "Still",
+                        "Agua",
+                        "Sin gas"
+                    ]
+                },
+                {
+                    "name": "Gaseosa",
+                    "price": "1.50 USD",
+                    "ingredients": "Coca cola, fanta, fresa, fresca, sprite y uva",
+                    "tags": [
+                        "Soda",
+                        "Sweet",
+                        "Gaseosa",
+                        "Dulce"
+                    ]
+                },
+                {
+                    "name": "Red Bull",
+                    "price": "5 USD",
+                    "ingredients": "Bebida energizante",
+                    "tags": [
+                        "Energy",
+                        "Caffeine",
+                        "Energía",
+                        "Cafeína"
+                    ]
+                }
+            ]
+        }
+    ]
+}
